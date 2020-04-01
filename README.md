@@ -3,8 +3,11 @@ python 3.7.4 (in Anaconda)
 Scrapy 1.6.0
 
 Packages needed:
+
 numpy
+
 pandas
+
 matplotlib
 
 
