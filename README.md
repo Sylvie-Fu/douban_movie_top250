@@ -15,7 +15,7 @@
 
 	For regex:
 	--- The unicode character set for French: u00C0-u00FF
-	--- The unicode character set  for Chinese: u4e00-u9fa5 (extended: 0x3400-0x4db5)
+	--- The unicode character set for Chinese: u4e00-u9fa5 (extended: 0x3400-0x4db5)
 	--- The unicode character set for Japanese: u0800-u4e00
 	--- The unicode character set for Korean: xAC00-xD7A3
 	--- The unicode character set for Russian: x0400-x052f
